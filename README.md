@@ -4,17 +4,17 @@ This simple plugin will add a WhatsApp chat button in WooCommerce single product
 next to `Add to Cart` button. Button will be visible only when product will be
 available in stock.
 
-##Configurable settings
+## Configurable settings
 * Button text
 * WhatsApp contact number
 * Message body
 * Button style and color
 
-##How to configure
+## How to configure
 To configure these settings you will have to go to `WooCommerce -> Settings -> General
 (Tab) -> WhatsApp Chat Button (Section)` after activating the button.
 
-######Following settings fields will be available
+###### Following settings fields will be available
 * WhatsApp Contact Number - Use this to enter WhatsApp number with which you want user
 to chat. e.g. `001 123 123 1234`
 * Button Text - Text that you want to display to user on product page. Default will be
